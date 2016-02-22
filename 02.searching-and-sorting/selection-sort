@@ -1,5 +1,4 @@
-Selection Sort
-선택 정렬
+#선택 정렬
 The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning.
 The algorithm maintains two subarrays in a given array.
 선택정렬 알고리즘은 아 어렵네요.. 
