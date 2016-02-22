@@ -1,12 +1,11 @@
 #선택 정렬
-Selection Sort
-The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
+선택정렬은 정렬되어 있지 않은 배열부분에서 반복으로 가장 작은 엘리먼트를 반복으로 찾아내어 맨 앞으로 놓아 정렬합니다.(오름차순으로)
+이 알고리즘은 아래와 같이 주어진 두가지 subarray (작은 단위의 array) 유지합니다.
 
-1) The subarray which is already sorted.<br>
-2) Remaining subarray which is unsorted.
+1) 이미 정렬이 되어있는 Subarray
+2) 정렬이 되어 있지 않은 Subarray
 
-In every iteration of selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray.
+선택정렬의 매 반복문마다, 정렬이 되어있지 않은 subrray에서 부터 가장 작은 엘리먼트(오름차순으로)가 선택되어 정렬되있는 subarray로 옮겨 집니다.
 
-Following example explains the above steps:
+다음에 보기는 위의 설명을 설명해 줍니다.
 
-선택정렬 알고리즘은 반복적으로 가장 최소값을 정렬되지 않은 부분에서 찾아서 ... 아 번역하려니 어렵네요.
